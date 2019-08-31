@@ -571,7 +571,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top1 {
-    background: url(/Users/nandhini/Documents/sathish-sudo.github.io/BMT/IMG_5845.JPG) no-repeat bottom;
+    background: url(../../bundles/images/IMG_5806.JPG) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -613,7 +613,7 @@ a.button-w3ls:hover {
 
 /* about */
 .about {
-    background: url(/Users/nandhini/Documents/sathish-sudo.github.io/BMT/IMG_5763.JPG) no-repeat left;
+    background: url(../../bundles/images/bmt-office.JPG) no-repeat left;
     background-size: cover;
     -webkit-background-size: contain;
     -moz-background-size: cover;
@@ -698,7 +698,7 @@ p.w3ls-title-sub {
     background-repeat: repeat-x;
     animation: slideleft 20000s infinite linear;
     -webkit-animation: slideleft 20000s infinite linear;
-    background-size: cover;
+    /*background-size: cover;*/
     min-height: 400px;
 }
 
@@ -764,7 +764,7 @@ img.img-blog {
 }
 
 .blog-sec-w3 {
-    background: url(../images/bg3.jpg) no-repeat center;
+    background: url(../images/coconut2.JPG) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -773,7 +773,7 @@ img.img-blog {
 }
 
 .blog-sec-w3-2 {
-    background: url(../images/bg4.jpg) no-repeat center;
+    background: url(../images/coconut2.JPG) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
