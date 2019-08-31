@@ -139,7 +139,11 @@ a.move-top span {
 }
 
 .top-right-info li.twitter-w3 a {
-    background: #1da1f2;
+    background: #125688;
+}
+
+.top-right-info li.instagram-w3 a {
+    background: #e4405f;
 }
 
 .top-right-info li.google-w3 a {
@@ -919,7 +923,7 @@ button.submit-contact:hover {
 
 /* inner pages */
 .main-banner-2 {
-    background: url(../images/inner-bg.jpg) no-repeat center;
+    background: url(../../../BMT/IMG_5764.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
