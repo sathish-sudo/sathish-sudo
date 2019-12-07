@@ -512,7 +512,7 @@ button.submit {
 
 /* banner */
 .baneer-w3ls {
-    background: linear-gradient(to bottom, #fff, #fbfbfb);
+    background: #FBFCFF;
     z-index: 1;
     position: relative;
 }
