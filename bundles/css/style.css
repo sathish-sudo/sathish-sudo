@@ -1662,8 +1662,14 @@ h3.title-sub span {
 
 .company_content{
     color:#000000;
+    font-size: 20px !important;
+    padding-top: 5px !important;
 }
 
 .bmt_name{
     font-size: 25px;
+}
+
+.company_title{
+    font-size: 15px !important;
 }
