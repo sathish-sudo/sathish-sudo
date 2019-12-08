@@ -1358,7 +1358,7 @@ h3.title-sub span {
     }
 
     a.logo {
-        font-size: 36px;
+        font-size: 30px;
     }
 
     a.logo span {
@@ -1653,3 +1653,17 @@ h3.title-sub span {
 }
 
 /* //responsive */
+
+
+
+.company_brief{
+    padding-left: 50px !important;
+}
+
+.company_content{
+    color:#000000;
+}
+
+.bmt_name{
+    font-size: 25px;
+}
