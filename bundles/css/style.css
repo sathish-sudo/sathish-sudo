@@ -1216,8 +1216,8 @@ h3.title-sub span {
     }
 
     .banner-info_agile_w3ls {
-        padding-top: 9em;
-        padding-left: 3em;
+        padding-top: 9em !important;
+        padding-left: 3em !important;
     }
 
     .banner-info_agile_w3ls h5 {
@@ -1719,5 +1719,5 @@ h3.title-sub span {
   }
 
   .page_padding{
-    padding: 1.25rem !important;
+    padding: 1.25rem;
   }
