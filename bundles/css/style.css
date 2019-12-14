@@ -1727,6 +1727,6 @@ h3.title-sub span {
       margin-left: 30%;
   }
 
-  .btn{
+  .btn, #logo{
       cursor: pointer !important;
   }
