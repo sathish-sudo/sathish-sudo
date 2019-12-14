@@ -166,7 +166,7 @@ nav li:last-child {
 .header-top_w3layouts p,
 .header-w3layouts p,
 .top-w3layouts p {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 a.login-button-2 {
@@ -571,14 +571,14 @@ a.button-w3ls:hover {
 }
 
 .banner-top1 {
-    background: url(../../bundles/images/new_bg_3-min.JPG) no-repeat bottom;
+    background: url(../../bundles/images/new_bg_5-min.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
 }
-
+/*
 .banner-top2 {
     background: url(../images/new_bg_2-min.JPG) no-repeat bottom;
     background-size: cover;
@@ -596,7 +596,7 @@ a.button-w3ls:hover {
     -o-background-size: cover;
     -moz-background-size: cover;
 }
-
+*/
 /* //right side slider */
 
 /* css clider */
@@ -620,6 +620,7 @@ a.button-w3ls:hover {
     -o-background-size: cover;
     -moz-background-size: cover;
     min-height: 500px;
+    border-radius: 250px;
 }
 
 .about-bottom {
@@ -1720,4 +1721,12 @@ h3.title-sub span {
 
   .page_padding{
     padding: 1.25rem;
+  }
+
+  .readmore_center{
+      margin-left: 30%;
+  }
+
+  .btn{
+      cursor: pointer !important;
   }
