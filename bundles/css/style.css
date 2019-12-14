@@ -694,7 +694,7 @@ p.w3ls-title-sub {
 
 /* slides images */
 .wthree-slider {
-    background-image: url(../images/bg7.jpg);
+    background-image: url(../images/slideshow.jpg);
     background-repeat: repeat-x;
     animation: slideleft 20000s infinite linear;
     -webkit-animation: slideleft 20000s infinite linear;
@@ -923,7 +923,7 @@ button.submit-contact:hover {
 
 /* inner pages */
 .main-banner-2 {
-    background: url("../images/about-banner.jpg") no-repeat center;
+    background: url("../images/about-banner.png") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
