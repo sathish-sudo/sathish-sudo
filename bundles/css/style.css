@@ -1207,7 +1207,7 @@ h3.title-sub span {
 
 @media(max-width: 1600px) {}
 
-@media(max-width: 1440px) {
+@media(min-width: 1440px) {
 
     .banner-top1,
     .banner-top2,
@@ -1707,7 +1707,7 @@ h3.title-sub span {
 
   .cta_buttons{
       padding-bottom: 50px;
-      padding: 10%;
+      padding: 6%;
   }
 
   .navigation{
