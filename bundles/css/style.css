@@ -694,7 +694,7 @@ p.w3ls-title-sub {
 
 /* slides images */
 .wthree-slider {
-    background-image: url(../images/bg7.jpg);
+    background-image: url(../images/slideshow.jpg);
     background-repeat: repeat-x;
     animation: slideleft 20000s infinite linear;
     -webkit-animation: slideleft 20000s infinite linear;
