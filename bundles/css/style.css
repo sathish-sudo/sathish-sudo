@@ -512,7 +512,7 @@ button.submit {
 
 /* banner */
 .baneer-w3ls {
-    background: #FBFCFF;
+    background: #ffffff;
     z-index: 1;
     position: relative;
 }
@@ -571,7 +571,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top1 {
-    background: url(../../bundles/images/bg_1.jpg) no-repeat bottom;
+    background: url(../../bundles/images/new_bg_3-min.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -580,7 +580,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top2 {
-    background: url(../images/bg_2.jpg) no-repeat bottom;
+    background: url(../images/new_bg_2-min.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -589,7 +589,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top3 {
-    background: url(../images/bg_3.jpg) no-repeat bottom;
+    background: url(../images/new_bg_1-min.jpg) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
