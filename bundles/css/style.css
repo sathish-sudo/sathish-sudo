@@ -512,7 +512,7 @@ button.submit {
 
 /* banner */
 .baneer-w3ls {
-    background: #FBFCFF;
+    background: #ffffff;
     z-index: 1;
     position: relative;
 }
@@ -571,7 +571,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top1 {
-    background: url(../../bundles/images/bg_1.jpg) no-repeat bottom;
+    background: url(../../bundles/images/new_bg_3-min.JPG) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -580,7 +580,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top2 {
-    background: url(../images/bg_2.jpg) no-repeat bottom;
+    background: url(../images/new_bg_2-min.JPG) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -589,7 +589,7 @@ a.button-w3ls:hover {
 }
 
 .banner-top3 {
-    background: url(../images/bg_3.jpg) no-repeat bottom;
+    background: url(../images/new_bg_1-min.JPG) no-repeat bottom;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -615,7 +615,7 @@ a.button-w3ls:hover {
 .about {
     background: url(../../bundles/images/bmt-office.JPG) no-repeat left;
     background-size: cover;
-    -webkit-background-size: contain;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
@@ -1207,7 +1207,7 @@ h3.title-sub span {
 
 @media(max-width: 1600px) {}
 
-@media(max-width: 1440px) {
+@media(min-width: 1440px) {
 
     .banner-top1,
     .banner-top2,
@@ -1216,8 +1216,8 @@ h3.title-sub span {
     }
 
     .banner-info_agile_w3ls {
-        padding-top: 9em;
-        padding-left: 3em;
+        padding-top: 9em !important;
+        padding-left: 3em !important;
     }
 
     .banner-info_agile_w3ls h5 {
@@ -1655,10 +1655,10 @@ h3.title-sub span {
 /* //responsive */
 
 
-
+/*
 .company_brief{
     padding-left: 50px !important;
-}
+}*/
 
 .company_content{
     color:#000000;
@@ -1673,3 +1673,51 @@ h3.title-sub span {
 .company_title{
     font-size: 15px !important;
 }
+
+
+.pulse-button {
+
+    position: relative;
+    
+    box-shadow: 0 0 0 0 #05c46b;
+    border-radius: 50%;
+    background-color: #05c46b;
+    background-size:cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+    animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+  }
+  .pulse-button:hover 
+  {
+    -webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none;
+  }
+  
+  @-webkit-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+  @-moz-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+  @-ms-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+  @keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+
+
+  .about-bottom{
+      padding: 0px 2%;
+  }
+
+  .cta_buttons{
+      padding-bottom: 50px;
+      padding: 6%;
+  }
+
+  .navigation{
+      display: none;
+  }
+
+  .business_info{
+      margin-top: 10px;
+  }
+
+  .page_padding{
+    padding: 1.25rem;
+  }
