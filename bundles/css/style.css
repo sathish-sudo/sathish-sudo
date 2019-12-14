@@ -923,7 +923,7 @@ button.submit-contact:hover {
 
 /* inner pages */
 .main-banner-2 {
-    background: url(../../BMT/IMG_5764.jpg) no-repeat center;
+    background: url("../images/about-banner.jpg") no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
