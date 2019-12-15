@@ -333,7 +333,7 @@ li>a:only-child:after {
         -ms-border-radius: 4px;
         -moz-border-radius: 4px;
         margin-bottom: 0;
-        cursor: pointer;
+        cursor: pointer !important;
         margin-top: 8px;
     }
 
@@ -349,6 +349,7 @@ li>a:only-child:after {
         color: #3a3939;
         text-transform: uppercase;
         letter-spacing: .5px;
+        cursor: pointer;
     }
 
     .toggle:hover {
@@ -1358,7 +1359,7 @@ h3.title-sub span {
     }
 
     a.logo {
-        font-size: 30px;
+        font-size: 24px;
     }
 
     a.logo span {
@@ -1563,6 +1564,7 @@ h3.title-sub span {
     nav a,
     .menu .toggle {
         font-size: 13px;
+        cursor: pointer;
     }
 
     h3.title-sub {
