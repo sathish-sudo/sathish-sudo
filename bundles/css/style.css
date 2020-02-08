@@ -1732,3 +1732,13 @@ h3.title-sub span {
   .btn, #logo{
       cursor: pointer !important;
   }
+
+
+  .why_us_icon{
+      font-size: 50px !important;
+      text-align: center !important;
+  }
+/*
+  .card{
+      text-align: center !important;
+  }*/
